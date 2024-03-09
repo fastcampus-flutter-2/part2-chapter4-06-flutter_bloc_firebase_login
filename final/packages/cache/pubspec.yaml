@@ -1,0 +1,7 @@
+name: cache
+description: A new Flutter project.
+publish_to: none
+
+environment:
+  sdk: 3.2.6
+  flutter: 3.16.9

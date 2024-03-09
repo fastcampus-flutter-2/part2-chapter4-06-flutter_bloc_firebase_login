@@ -1,0 +1,10 @@
+name: form_inputs
+description: A new Flutter project.
+publish_to: none
+
+environment:
+  sdk: 3.2.6
+  flutter: 3.16.9
+
+dependencies:
+  formz: 0.7.0
